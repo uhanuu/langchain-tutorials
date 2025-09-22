@@ -1,0 +1,34 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pym
+*.pyt
+*.pycache/
+
+# 가상환경
+.venv/
+venv/
+env/
+ENV/
+
+# 환경변수
+.env
+.env.*
+.venv/bin/
+.venv/lib/
+
+# pip / wheel
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# IDE 관련
+.vscode/
+.idea/
+
+# MacOS 관련
+.DS_Store
